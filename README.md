@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://telegra.ph/file/402597675955ccfd37c9c.jpg">
+    <img src="https://telegra.ph/file/9f1bff450ce069b2a9bf7.jpg">
 </div>
 
 # Hello, it's me your Agent! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
