@@ -31,7 +31,7 @@ I am python learner from India, my favorite programing language is python,
 ##  📊 **Github Stats**
 
 </div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Agent8800&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent8800&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Agent8800&show_icons=true&hide_border=true&theme=tokyoday"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent8800&theme=tokyoday&hide=batchfile">
 
 
 ## 📫  Social Media
