@@ -1,8 +1,8 @@
-# Hi there niche mera baare mai hai dekhlo(;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
+# Hi there niche mere baare mai hai dekhlo(;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 ```python DEV
-Name = "Ishant"
+Name = "Kishan"
 'Programmer'
-Age = "17"
+Age = "19"
 Country = "🇮🇳"
 ```
 
@@ -13,9 +13,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![Ishant Git Stats](https://github-readme-stats.vercel.app/api?username=Agent8800&include_all_commits=true&count_private=true&theme=highcontrast)
+![Kishan Git Stats](https://github-readme-stats.vercel.app/api?username=Agent8800&include_all_commits=true&count_private=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent8800&layout=compact&theme=radical)](https://github.com/Agent8800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent8800&layout=compact&theme=react)](https://github.com/Agent8800)
 
 [![telegram badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=telegram)](https://t.me/Kirito_est)
 [![Ishant badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=gmail)](mailto:aax955600@gmail.com)
