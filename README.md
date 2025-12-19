@@ -21,7 +21,7 @@ Country = "🇮🇳"
 
 [![telegram badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=telegram)](https://t.me/Kirito_est)
 [![Ishant badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=gmail)](mailto:aax955600@gmail.com)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Agent8800&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoymajid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Agent8800&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoymajid" /> </p>
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
