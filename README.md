@@ -17,7 +17,7 @@ Country = "🇮🇳"
 
 [![Top Langs](https://awesome-github-stats.azurewebsites.net/top-langs/?username=Agent8800&layout=compact&theme=react)](https://github.com/Agent8800)
 
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=Agent8800&theme=react&date_format=j%20M%5B%20Y%5D)
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Agent8800&theme=vue&date_format=j%20M%5B%20Y%5D)
 
 [![telegram badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=telegram)](https://t.me/Kirito_est)
 [![Ishant badge](https://img.shields.io/badge/Kirito-30302f?style=for-the-badge&logo=gmail)](mailto:aax955600@gmail.com)
