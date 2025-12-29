@@ -13,7 +13,7 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![Kishan Git Stats](https://github-readme-stats.vercel.app/api?username=Agent8800&include_all_commits=true&count_private=true&theme=react)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Agent8800?cardType=level&theme=vue&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent8800&layout=compact&theme=react)](https://github.com/Agent8800)
 
