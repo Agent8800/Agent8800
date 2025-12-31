@@ -15,7 +15,7 @@ Country = "🇮🇳"
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Agent8800?cardType=level&theme=vue&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://awesome-github-stats.azurewebsites.net/top-langs/?username=Agent8800&layout=compact&theme=react)](https://github.com/Agent8800)
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agent8800&layout=compact&theme=vue&hide_border=true"/>
 
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Agent8800&theme=vue&date_format=j%20M%5B%20Y%5D)
 
